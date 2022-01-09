@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/WCE-Connects/static/css/main.01bce12c.chunk.css",
-    "main.js": "/WCE-Connects/static/js/main.57bd7635.chunk.js",
-    "main.js.map": "/WCE-Connects/static/js/main.57bd7635.chunk.js.map",
+    "main.js": "/WCE-Connects/static/js/main.ea6bdca5.chunk.js",
+    "main.js.map": "/WCE-Connects/static/js/main.ea6bdca5.chunk.js.map",
     "runtime-main.js": "/WCE-Connects/static/js/runtime-main.e86cdfe4.js",
     "runtime-main.js.map": "/WCE-Connects/static/js/runtime-main.e86cdfe4.js.map",
-    "static/js/2.98d9de6a.chunk.js": "/WCE-Connects/static/js/2.98d9de6a.chunk.js",
-    "static/js/2.98d9de6a.chunk.js.map": "/WCE-Connects/static/js/2.98d9de6a.chunk.js.map",
+    "static/js/2.0c25e75d.chunk.js": "/WCE-Connects/static/js/2.0c25e75d.chunk.js",
+    "static/js/2.0c25e75d.chunk.js.map": "/WCE-Connects/static/js/2.0c25e75d.chunk.js.map",
     "static/js/3.d0badd4c.chunk.js": "/WCE-Connects/static/js/3.d0badd4c.chunk.js",
     "static/js/3.d0badd4c.chunk.js.map": "/WCE-Connects/static/js/3.d0badd4c.chunk.js.map",
     "index.html": "/WCE-Connects/index.html",
     "static/css/main.01bce12c.chunk.css.map": "/WCE-Connects/static/css/main.01bce12c.chunk.css.map",
-    "static/js/2.98d9de6a.chunk.js.LICENSE.txt": "/WCE-Connects/static/js/2.98d9de6a.chunk.js.LICENSE.txt"
+    "static/js/2.0c25e75d.chunk.js.LICENSE.txt": "/WCE-Connects/static/js/2.0c25e75d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e86cdfe4.js",
-    "static/js/2.98d9de6a.chunk.js",
+    "static/js/2.0c25e75d.chunk.js",
     "static/css/main.01bce12c.chunk.css",
-    "static/js/main.57bd7635.chunk.js"
+    "static/js/main.ea6bdca5.chunk.js"
   ]
 }
